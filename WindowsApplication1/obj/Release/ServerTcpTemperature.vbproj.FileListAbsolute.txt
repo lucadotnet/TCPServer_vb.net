@@ -1,0 +1,9 @@
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\bin\Release\ServerTCPTemperature.exe.config
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\bin\Release\ServerTCPTemperature.exe
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\bin\Release\ServerTCPTemperature.pdb
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\bin\Release\ServerTCPTemperature.xml
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Release\ServerTCPTemperature.Resources.resources
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Release\ServerTcpTemperature.vbproj.GenerateResource.Cache
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Release\ServerTCPTemperature.exe
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Release\ServerTCPTemperature.xml
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Release\ServerTCPTemperature.pdb

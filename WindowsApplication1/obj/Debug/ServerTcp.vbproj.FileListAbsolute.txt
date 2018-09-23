@@ -1,0 +1,14 @@
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\bin\Debug\ServerTCP.exe.config
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\bin\Debug\ServerTCP.exe
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\bin\Debug\ServerTCP.pdb
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\bin\Debug\ServerTCP.xml
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.Resources.resources
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\obj\Debug\ServerTcp.vbproj.GenerateResource.Cache
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.exe
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.xml
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.pdb
+C:\Users\Win7_VS2015\Desktop\ServerTcp\ServerTcp\WindowsApplication1\obj\Debug\ServerTcp.vbprojResolveAssemblyReference.cache
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\bin\Debug\ServerTCP.exe.config
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.exe
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.xml
+\\192.168.1.25\home\Documenti\Software\net\TCPserver\TCPServer Temperatura\ServerTcp\WindowsApplication1\obj\Debug\ServerTCP.pdb

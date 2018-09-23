@@ -1,0 +1,11 @@
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Users\Win7_VS2015\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\ServerTCP.exe.config
